@@ -1,0 +1,2 @@
+INSERT INTO music (name) VALUES ('lcldkdld');
+INSERT INTO music (name) VALUES ('klfkfkf');
